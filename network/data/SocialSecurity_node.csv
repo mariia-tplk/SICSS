@@ -1,0 +1,76 @@
+"","party","parlgov_party_id","country_name_short","country_name","party_name_short","party_name_english","party_name","party_name_ascii","family_name_short","family_name","left_right","state_market","liberty_authority","eu_anti_pro","cmp","euprofiler","ees","castles_mair","huber_inglehart","ray","benoit_laver","chess","country_id","family_id"
+"1","50PLUS",2109,"NLD","Netherlands","50+","50PLUS","50PLUS","50PLUS","lib","Liberal",6,6.7,3.5,8.7,NA,NA,NA,NA,NA,NA,NA,NA,8,6
+"2","Aarden",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","AOV",112,"NLD","Netherlands","AOV|VSP","General Senior Union | United Seniors Party","Algemeen Ouderen Verbond | Verenigde Senioren Partij","Algemeen Ouderen Verbond | Verenigde Senioren Partij","spec","Special issue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,16
+"4","ARP",300,"NLD","Netherlands","ARP","Anti-Revolutionary Party","Anti-Revolutionaire Partij","Anti-Revolutionaire Partij","chr","Christian democracy",5.8067,5.6933,6.7724,8.2894,22523,NA,NA,NA,NA,1001,NA,1001,8,3
+"5","Bontes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","Bontes/Van Klaveren",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","BP",1595,"NLD","Netherlands","Bp","Farmers Party","Boerenpartij","Boerenpartij","agr","Agrarian",5.3,4.9,6.5,5.4,NA,NA,NA,NA,NA,NA,NA,NA,8,2
+"8","Brinkman",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","CD",209,"NLD","Netherlands","CD","Centre Democrats","Centrum Democraten","Centrum Democraten","right","Right-wing",9.4097,8.5714,9.25,1.312,NA,NA,NA,NA,2609,1009,NA,1009,8,40
+"10","CDA",235,"NLD","Netherlands","CDA","Christian Democratic Appeal","Christen Democratisch Appèl","Christen Democratisch Appel","chr","Christian democracy",5.9376,5.8848,6.6882,7.7157,22521,293,1528521,1106,2604,1001,7040,1001,8,3
+"11","CDU",2542,"NLD","Netherlands","CDU","Christian Democratic Union","Christelijk-Democratische Unie","Christelijk-Democratische Unie","chr","Christian democracy",6.2,5.7,7.2,8.3,NA,NA,NA,NA,NA,NA,NA,NA,8,3
+"12","Centrumpartij",275,"NLD","Netherlands","CP","Centre Party","Centrumpartij","Centrumpartij","right","Right-wing",8.7,5.9,8.6,2.4,NA,NA,NA,NA,NA,NA,NA,NA,8,40
+"13","ChristenUnie",1206,"NLD","Netherlands","CU","ChristianUnion -- Reformed Political Party","ChristenUnie – Staatkundig Gereformeerde Partij","ChristenUnie -- Staatkundig Gereformeerde Partij","chr","Christian democracy",6.1732,4.6769,8.6005,4.4157,22526,294,1528526,NA,NA,NA,7060,1016,8,3
+"14","CHU",405,"NLD","Netherlands","CHU","Christian Historical Union","Christelijk-Historische Unie","Christelijk-Historische Unie","chr","Christian democracy",5.8067,5.6933,6.7724,8.2894,22525,NA,NA,NA,NA,1001,NA,1001,8,3
+"15","CPN",1194,"NLD","Netherlands","CPN","Communist Party of the Netherlands","Communistische Partij Nederland","Communistische Partij Nederland","com","Communist/Socialist",0.8,1.4,3,5,NA,NA,NA,1102,NA,1012,NA,NA,8,14
+"16","D66",345,"NLD","Netherlands","D66","Democrats 66","Democraten 66","Democraten 66","lib","Liberal",4.5066,4.9917,1.7625,8.6233,22330,295,1528330,1105,2603,1004,7080,1004,8,6
+"17","De Jong",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","DS70",402,"NLD","Netherlands","DS70","Democratic Socialists 70","Democratisch Socialisten 70","Democratisch Socialisten 70","con","Conservative",3.8433,3.9133,3.5288,8.4641,22524,NA,NA,NA,NA,NA,NA,1002,8,26
+"19","Eerdmans/Van Schijndel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","EVP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","Goedhart",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","Gortzak",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","GPV",625,"NLD","Netherlands","GPV","Reformed Political League","Gereformeerd Politiek Verbond","Gereformeerd Politiek Verbond","con","Conservative",8.1444,5.8,8.6364,3.4848,NA,NA,NA,1108,2606,1007,NA,1007,8,26
+"24","GroenLinks",756,"NLD","Netherlands","GL","GreenLeft","GroenLinks","GroenLinks","eco","Green/Ecologist",2.0454,2.1108,1.644,6.1973,22110,297,1528110,NA,2601,1005,7100,1005,8,19
+"25","Harmsen",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","Hendriks",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","Houwers",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","Huijsen",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","Janmaat",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","Klein",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","KNP",3,"NLD","Netherlands","KNP","Catholic National Party","Katholieke Nationale Partij","Katholieke Nationale Partij","chr","Christian democracy",6.2,5.7,7.2,8.3,NA,NA,NA,NA,NA,NA,NA,NA,8,3
+"32","Koekoek",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","Kortenoeven/Hernandez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","KPN",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","Kronenburg",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","Kuzu/Ozturk",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","KVP",451,"NLD","Netherlands","KVP","Catholic Peoples Party","Katholieke Volkspartij","Katholieke Volkspartij","chr","Christian democracy",5.9473,5.8848,6.6882,7.7157,22522,NA,NA,1106,NA,1001,7040,1001,8,3
+"38","Lazrak",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","LN",744,"NLD","Netherlands","LN","Livable Netherlands","Leefbaar Nederland","Leefbaar Nederland","right","Right-wing",8.7,5.9,8.6,2.4,22430,NA,NA,NA,NA,NA,NA,NA,8,40
+"40","LPF",456,"NLD","Netherlands","LPF","Fortuyn List","Lijst Pim Fortuyn","Lijst Pim Fortuyn","right","Right-wing",8.5609,8.0776,4.7759,2.5798,22720,NA,NA,NA,NA,NA,7120,1015,8,40
+"41","Nawijn",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","Nijpels",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","NMP",87,"NLD","Netherlands","MP","Middle Party","Midden Partij","Midden Partij","con","Conservative",7.4,6.4,6.9,7.8,NA,NA,NA,NA,NA,NA,NA,NA,8,26
+"44","Nooteboom",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","Ockels",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","PPR",342,"NLD","Netherlands","PPR","Radical Political Party","Politieke Partij Radikalen","Politieke Partij Radikalen","eco","Green/Ecologist",1.6,2.5,1.8,5,22310,NA,NA,1103,NA,1010,NA,NA,8,19
+"47","PSP",1452,"NLD","Netherlands","PSP","Pacifist Socialist Party","Pacifistisch Socialistische Partij","Pacifistisch Socialistische Partij","com","Communist/Socialist",1.2,1.4,3,5,NA,NA,NA,NA,NA,1011,NA,NA,8,14
+"48","PvdA",742,"NLD","Netherlands","PvdA","Labour Party","Partij van de Arbeid","Partij van de Arbeid","soc","Social democracy",3.6118,3.868,3.2028,7.9904,22320,299,1528320,1104,2602,1002,7140,1002,8,11
+"49","PvdD",990,"NLD","Netherlands","PvdD","Party for the Animals","Partij voor de Dieren","Partij voor de Dieren","spec","Special issue",NA,NA,NA,NA,NA,300,1528006,NA,NA,NA,NA,1018,8,16
+"50","PvdV",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","PVV",1501,"NLD","Netherlands","PVV","Party for Freedom","Partij voor de Vrijheid","Partij voor de Vrijheid","con","Conservative",8.8,8.29,6.57,0.9167,NA,301,1528600,NA,NA,NA,NA,1017,8,26
+"52","RKPN",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","RKSP",2539,"NLD","Netherlands","RKP","Roman Catholic Party","Roomsch Katholieke Partij","Roomsch Katholieke Partij","chr","Christian democracy",6.2,5.7,7.2,8.3,NA,NA,NA,NA,NA,NA,NA,NA,8,3
+"54","RPF",212,"NLD","Netherlands","RPF","Reformatory Political Federation","Reformatorische Politieke Federati","Reformatorische Politieke Federati","chr","Christian democracy",8.2963,6,8.5455,3.5447,NA,NA,NA,1109,2608,1008,NA,1008,8,3
+"55","Scholten",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","Scholten/Dijkman",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","SDAP",1451,"NLD","Netherlands","SDAP","Social Democratic Workers' Party","Sociaal Democratische Arbeiders Partij","Sociaal Democratische Arbeiders Partij","soc","Social democracy",3.3,3.5,3.5,8.1,NA,NA,NA,NA,NA,NA,NA,NA,8,11
+"58","SGP",1251,"NLD","Netherlands","SGP","Political Reformed Party","Staatkundig Gereformeerde Partij","Staatkundig Gereformeerde Partij","con","Conservative",8.7531,6.3487,9.7744,2.9307,NA,294,1528527,1110,2607,1006,7160,1019,8,26
+"59","SP",357,"NLD","Netherlands","SP","Socialist Party","Socialistiese Partij","Socialistiese Partij","com","Communist/Socialist",1.2146,1.0421,4.2099,2.5049,22220,304,1528220,1101,NA,NA,7180,1014,8,14
+"60","Ubels-Veen",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","Unie 55+",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","Van der Spek",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","Van Klaveren",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","Van Oudenallen",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","Van Schijndel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","Van Vliet",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","VDB",944,"NLD","Netherlands","VDB","Free-thinking Democratic League","Vrijzinnig Democratische Bond","Vrijzinnig Democratische Bond","lib","Liberal",6,6.7,3.5,8.7,NA,NA,NA,NA,NA,NA,NA,NA,8,6
+"68","Verdonk",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","Verkerk",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","Voogd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","Vrijheidsbond",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","VVD",1409,"NLD","Netherlands","VVD","People's Party for Freedom and Democracy","Volkspartij voor Vrijheid en Democratie","Volkspartij voor Vrijheid en Democratie","lib","Liberal",7.3482,7.8979,4.3887,5.9471,22420,305,1528420,1107,2605,1003,7200,1003,8,6
+"73","Wagenaar",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","Wijnschenk",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","Wilders",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
